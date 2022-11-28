@@ -181,7 +181,7 @@ st.markdown('''
 
 
 txt('[Virtusa](https://www.virtusa.com/), **Senior Consultant**','Chennai, India.')
-txt('10/2018 - 07/2022',' ')
+txt(' ','10/2018 - 07/2022')
 # txt('Chennai, India.','999')
 st.markdown('''
 - Developed database architectural strategies at modeling, design and implementation stages for migration of legacy Sybase database to Oracle database.
