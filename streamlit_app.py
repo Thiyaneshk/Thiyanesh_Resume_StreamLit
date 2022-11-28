@@ -44,8 +44,8 @@ image = Image.open('dp.jpg')
 col1, col2 = st.columns(2, gap="small")
 
 with col1:
-  st.image(image, width=240)
-
+  # st.image(image, width=240)
+  st.write('Test')
 # with col2:
 #   st.write('''
 #   ##### ⚓ *Halifax*, Ns, Canada
