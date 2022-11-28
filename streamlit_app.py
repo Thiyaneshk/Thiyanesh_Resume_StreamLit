@@ -180,17 +180,8 @@ st.markdown('''
 #     ''')
 
 
-txt('[Virtusa](https://www.virtusa.com/), **Senior Consultant**,    Chennai, India.',
-'10/2018 - 07/2022')
-st.write('1')
-txt2('[Virtusa](https://www.virtusa.com/), **Senior Consultant**,    Chennai, India.',
-'10/2018 - 07/2022')
-st.write('2')
-txt3('[Virtusa](https://www.virtusa.com/), **Senior Consultant**,    Chennai, India.',
-'10/2018 - 07/2022')
-st.write('3')
-txt4('[Virtusa](https://www.virtusa.com/), **Senior Consultant**','Chennai, India.',
-'10/2018 - 07/2022')
+txt('[Virtusa](https://www.virtusa.com/), **Senior Consultant**','Chennai, India.')
+txt('10/2018 - 07/2022',' ')
 # txt('Chennai, India.','999')
 st.markdown('''
 - Developed database architectural strategies at modeling, design and implementation stages for migration of legacy Sybase database to Oracle database.
