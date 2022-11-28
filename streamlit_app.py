@@ -74,8 +74,11 @@ st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
 - Highly versatile developer application with 10 years of experience in development of Banking applications with prowess in learning technology, knack to work in team to achieve concrete goals on a strict deadline. 
 - Strong skills include Oracle database, Banking application development , Python and shell scripting. 
-- Strong verbal and written communication skills as demonstrated by extensive participation as invited speaker at `10` conferences as well as publishing 149 research articles.
-- Strong track record in scholarly research with H-index of `32` and total citation of 3200+.
+- Extensive experience working on Banking applications of Flexcube/B@NCS.
+- Hands on experience on Scripting/automation in Unix/Linux env.
+- Have working experience as Oracle Database Architect, in which have migrated Sybase database to a new Oracle database.
+- Involved in Oracle DB related activities including upgrades and migration.
+- Have good knowledge in Python and AWS.
 ''')
 
 #####################
