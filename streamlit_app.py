@@ -44,19 +44,9 @@ image = Image.open('dp.jpg')
 col1, col2 = st.columns(2)
 
 with col1:
-  st.image(image, width=240)
-  # st.write('Test')
-# with col2:
-#   st.write('''
-#   ##### ⚓ *Halifax*, Ns, Canada
-#   ##### ☎️`+1 902 8888 8888`
-#   ##### 📧 thiyaneshk@gmail.com
-#   ''')
+    st.image(image, width=240)
 
 with col2:
-
-    # st.title(NAME)
-    # st.subheader(TITLE)
     st.write("📫", EMAIL)
     st.write("☎️",MOBILE)
     st.write("⚓", CITY)
@@ -68,7 +58,6 @@ with col2:
         file_name='Thiyanesh_PLSQL.pdf',
         mime="application/octet-stream",
     )
-
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
@@ -191,8 +180,8 @@ st.markdown('''
 #     ''')
 
 
-txt('**Senior Consultant**, [Virtusa](https://www.virtusa.com/) Chennai, India',
-'10/2018 - 07/2022')
+txt('**Senior Consultant**, [Virtusa](https://www.virtusa.com/) ',
+'Chennai, India.    10/2018 - 07/2022')
 st.markdown('''
 - Developed database architectural strategies at modeling, design and implementation stages for migration of legacy Sybase database to Oracle database.
 - Migration of MIS application from Sybase to Oracle in view to implement most secure and robust financial reporting application for Citi Bank - Japan.
