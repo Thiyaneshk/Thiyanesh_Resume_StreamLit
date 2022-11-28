@@ -180,9 +180,9 @@ st.markdown('''
 #     ''')
 
 
-txt('**Senior Consultant**, [Virtusa](https://www.virtusa.com/) ',
-'Chennai, India.    10/2018 - 07/2022')
-txt('Chennai, India.','999')
+txt('[Virtusa](https://www.virtusa.com/), **Senior Consultant**      Chennai, India.',
+'10/2018 - 07/2022')
+# txt('Chennai, India.','999')
 st.markdown('''
 - Developed database architectural strategies at modeling, design and implementation stages for migration of legacy Sybase database to Oracle database.
 - Migration of MIS application from Sybase to Oracle in view to implement most secure and robust financial reporting application for Citi Bank - Japan.
