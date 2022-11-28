@@ -193,7 +193,7 @@ st.markdown('''
 - Agile application development including constant feedback from clients and implementation of robust system.
 ''')
 
-txt('[Oracle Financial Services Software](https://www.oracle.com/) ,**Application Developer**','Chennai, India')
+txt('[Oracle Financial Services Software](https://www.oracle.com/) , **Application Developer**','Chennai, India')
 txt('08/2016 - 10/2018',' ')
 st.markdown('''
 - Customization of the application to the needs of the clients, which includes understanding the business requirement, feasibility study, implementation of the same by coding the same which includes creation of database objects like tables, triggers, views and packages, procedures, functions with the highest degree of coding standards. 
@@ -203,8 +203,8 @@ st.markdown('''
 - Implemented system of tracking the bugs spotted in various clients and proactivily fixing the bugs in all the clients running the same version of Flexcube, which decreased number of issues raised clients and inturn improved customer satisfaction.
 ''')
 
-txt('**Software Engineer**, [HCL Technologies Ltd.](https://www.hcltech.com/) Chennai, India',
-'12/2014 - 08/2016')
+txt('[HCL Technologies Ltd.](https://www.hcltech.com/) , **Software Engineer**','Chennai, India')
+txt('12/2014 - 08/2016',' ')
 st.markdown('''
 - Application development with all stages of System Development Life Cycle (SDLC). Applied Database Tuning and Optimization, Normalization under tight schedules of development and implementation. 
 - Development includes Tier upgrade/downgrade/association process where Customers are assigned to tiers according to sales made as per business rules.
@@ -213,8 +213,8 @@ st.markdown('''
 - Created 6 value-adds worth $105,000 which brought new business to the Company and have satisfied the customer as it improved productivity. Obtained high acclaims for the same.
 ''')
 
-txt('**Developer**, [C-Edge Tech.](https://cedge.in/) ( A TCS - SBI Enterprise ) Chennai, India',
-'10/2012 - 12/2014')
+txt('[C-Edge Tech.](https://cedge.in/) ( A TCS - SBI Enterprise ) , **Developer**','Chennai, India')
+txt('10/2012 - 12/2014',' ')
 st.markdown('''
 - Managing a Center of `10` professors, OOOOO least `20+` research publications annually. 
 - B@NCS - Core banking implementation for over `25` Banks which contained over 850+ Banks in them. Worked in Client location which involved direct interaction with clients to obtain the requirement.
