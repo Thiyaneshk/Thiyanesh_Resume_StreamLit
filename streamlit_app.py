@@ -41,7 +41,7 @@ st.write('''
 ''')
 
 image = Image.open('dp.jpg')
-col1, col2 = st.columns(2, gap="small")
+col1, col2 = st.columns(2)
 
 with col1:
   # st.image(image, width=240)
