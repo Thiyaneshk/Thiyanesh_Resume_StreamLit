@@ -193,7 +193,7 @@ st.markdown('''
 - Agile application development including constant feedback from clients and implementation of robust system.
 ''')
 
-txt('[Oracle Financial Services Software](https://www.oracle.com/) ,**Application Developer**','Chennai, India',
+txt('[Oracle Financial Services Software](https://www.oracle.com/) ,**Application Developer**','Chennai, India')
 txt('08/2016 - 10/2018',' ')
 st.markdown('''
 - Customization of the application to the needs of the clients, which includes understanding the business requirement, feasibility study, implementation of the same by coding the same which includes creation of database objects like tables, triggers, views and packages, procedures, functions with the highest degree of coding standards. 
