@@ -68,6 +68,27 @@ st.info('''
 - Have working experience as Oracle Database Architect, in which have migrated Sybase database to a new Oracle database.
 - Involved in Oracle DB related activities including upgrades and migration.
 - Have good knowledge in Python and AWS.
+- Gappppp
+
+- 10+ Years of programming experience as an PL/SQL Developer in Analysis, Design and Implementation of Business Applications using Oracle DB.
+
+- Knowledgeable Oracle Developer skilled in Data collection, analysis and management. Works well under pressure and consistently meets deadline and targets while delivering high quality work.
+
+- Involved in all phases of SDLC from analysis, design, development, testing, implementation and maintenance with timely delivery against aggressive deadlines.
+
+- Experience with Data flow diagrams, Data dictionary, Database normalization
+
+- Effectively made use of Table, Views, Constraints, Indexes, partitioning, collections, Analytic functions, Materialized views, Query re-write, et al.
+
+- Developed complex database objects like stored procedures, functions, packages, triggers using SQL and PL/SQL.
+
+- Experiecne in Oracle supplied packages, Dynamic SQL, Records and PL/SQL Tables. Loaded data into Oracle tables using SQL Loader.
+
+- Created packages and procedures to automatically drop tables indexes and create indexes for tables.
+- Worked extensively on Ref Cursor, External tables and collections.
+
+- Expertise in Dynamic SQL, Collections and exception handling SQL.
+- Experience om SQL performance tuning using Cost-Based optimization
 ''')
 
 #####################
