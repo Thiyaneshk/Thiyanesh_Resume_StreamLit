@@ -284,7 +284,7 @@ st.markdown('''
 ## Contact me
 ''')
 txt2('Email', 'thiyaneshk@gmail.com')
-txt2('Mobile', '+1 902 8888 888')
+txt2('Mobile', '+1 (782) 882 4409')
 
 with open("dp.jpg", "rb") as file:
   btn = st.download_button(
