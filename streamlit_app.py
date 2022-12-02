@@ -10,21 +10,19 @@ with open('Thiyanesh_PLSQL.pdf', "rb") as pdf_file:
 #####################
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | John Doe"
+PAGE_TITLE = "Digital CV | Thiyanesh"
 PAGE_ICON = ":wave:"
 NAME  = "Thiyanesh Kamaraj"
 TITLE = "PLSQL Developer"
 CITY  = "*Halifax*, Nova Scotia"
-MOBILE= "`+1 902 8888 8888`"
+MOBILE= "`+1 (782) 882 4409`"
 DESCRIPTION = """
-Senior Data Analyst, assisting enterprises by supporting data-driven decision-making.
+Oracle PLSQL Developer, Seeking opportunity.
 """
 EMAIL = "thiyaneshk@gmail.com"
 SOCIAL_MEDIA = {
-    "YouTube": "https://youtube.com/c/codingisfun",
-    "LinkedIn": "https://linkedin.com",
-    "GitHub": "https://github.com",
-    "Twitter": "https://twitter.com",
+    "LinkedIn": "https://linkedin.com/in/thiyaneshk",
+    "GitHub": "https://github.com/ThiyaneshK",
 }
 PROJECTS = {
     "🏆 Sales Dashboard - Comparing sales across three stores": "https://youtu.be/Sb0A9i6d320",
