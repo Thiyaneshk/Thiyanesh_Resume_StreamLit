@@ -64,6 +64,7 @@ experience in development of Banking applications with prowess in
 learning technology, knack to work in team to achieve concrete
 goals on a strict deadline. Forte includes Oracle PLSQL, Shell
 scripting/automation and Python.
+''')
 # 
 # - Strong skills include Oracle database, Banking application development , Python and shell scripting. 
 # - Extensive experience working on Banking applications of Flexcube/B@NCS.
@@ -92,7 +93,6 @@ scripting/automation and Python.
 # 
 # - Expertise in Dynamic SQL, Collections and exception handling SQL.
 # - Experience om SQL performance tuning using Cost-Based optimization
-''')
 
 #####################
 # Navigation
