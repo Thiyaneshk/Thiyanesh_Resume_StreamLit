@@ -35,9 +35,12 @@ PROJECTS = {
 # Header 
 st.write('''
 # Thiyanesh Kamaraj
-# ##### Oracle PL\SQL Developer
 ''')
 
+# st.write('''
+# # Thiyanesh Kamaraj
+# ##### Oracle PL\SQL Developer
+# ''')
 image = Image.open('dp.jpg')
 col1, col2 = st.columns(2)
 
