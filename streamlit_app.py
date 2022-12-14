@@ -33,9 +33,13 @@ PROJECTS = {
 
 #####################
 # Header 
+# st.write('''
+# # Thiyanesh Kamaraj
+# ##### Oracle PL\SQL Developer
+# ''')
+
 st.write('''
-# Thiyanesh K
-##### Oracle PL\SQL Developer
+# Thiyanesh - PL\SQL Developer
 ''')
 
 image = Image.open('dp.jpg')
