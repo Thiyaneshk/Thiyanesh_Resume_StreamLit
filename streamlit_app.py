@@ -38,9 +38,6 @@ PROJECTS = {
 # ##### Oracle PL\SQL Developer
 # ''')
 
-st.write('''
-# Thiyanesh - PL\SQL Developer
-''')
 
 image = Image.open('dp.jpg')
 col1, col2 = st.columns(2)
@@ -61,7 +58,11 @@ with col2:
         mime="application/octet-stream",
     )
 
-st.markdown('## Summary', unsafe_allow_html=True)
+st.write('''
+# Thiyanesh - PLSQL Developer
+''')
+
+# st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
 - Highly versatile Oracle application developer with 10 years of
 experience in development of Banking applications with prowess in
