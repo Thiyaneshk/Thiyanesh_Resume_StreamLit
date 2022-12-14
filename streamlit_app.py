@@ -163,17 +163,6 @@ def txt4(a, b, c):
   with col3:
     st.markdown(c)
 
-#####################
-st.markdown('''
-## Education
-''')
-
-txt('**B.Tech** (Information Technology), *Anna University*, India',
-'2002-2006')
-st.markdown('''
-- GPA: `7.61`
-- Bachelors of Technology, Information Technology.
-''')
 
 #####################
 st.markdown('''
@@ -250,6 +239,17 @@ st.markdown('''
 - Headed a Team of 2-4 members as Team lead of Reports, GL and Deposit Modules. Develop tool to automatically send reports and files which failed to deliver over ftp. This process reduced work of L1.5 and improved the productivity and improved client’s satisfaction with the available narrow band and obtain highest success rate of delivery in turn reduce the cost considerably.
 ''')
 
+#####################
+st.markdown('''
+## Education
+''')
+
+txt('**B.Tech** (Information Technology), *Anna University*, India',
+'2002-2006')
+st.markdown('''
+- GPA: `7.61`
+- Bachelors of Technology, Information Technology.
+''')
 #####################
 st.markdown('''
 ## Skills
