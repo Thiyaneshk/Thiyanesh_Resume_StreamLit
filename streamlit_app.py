@@ -42,7 +42,7 @@ image = Image.open('dp.jpg')
 col1, col2 = st.columns(2)
 
 with col1:
-    st.image(image, width=180)
+    st.image(image, width=220)
 
 with col2:
     st.write("📫", EMAIL)
