@@ -34,7 +34,7 @@ PROJECTS = {
 #####################
 # Header 
 st.write('''
-# Thiyanesh Kamaraj TT
+# Thiyanesh K
 ##### Oracle PL\SQL Developer
 ''')
 
