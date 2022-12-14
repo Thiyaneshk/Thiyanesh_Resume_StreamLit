@@ -38,7 +38,6 @@ PROJECTS = {
 # ##### Oracle PL\SQL Developer
 # ''')
 
-
 image = Image.open('dp.jpg')
 col1, col2 = st.columns(2)
 
@@ -57,10 +56,10 @@ with col2:
         file_name='Thiyanesh_PLSQL.pdf',
         mime="application/octet-stream",
     )
-
-st.write('''
-# Thiyanesh - PLSQL Developer
-''')
+#
+# st.write('''
+# # Thiyanesh - PLSQL Developer
+# ''')
 
 # st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
@@ -106,7 +105,7 @@ st.markdown('<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootst
 
 st.markdown("""
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #16A2CB;">
-  <a class="navbar-brand" href="https://www.linkedin.com/in/thiyaneshk" target="_blank">Thiyanesh</a>
+  <a class="navbar-brand" href="https://www.linkedin.com/in/thiyaneshk" target="_blank">Thiyanesh - PLSQL Developer</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
