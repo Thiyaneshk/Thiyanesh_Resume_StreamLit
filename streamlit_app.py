@@ -59,7 +59,12 @@ with col2:
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-- Highly versatile developer application with 10 years of experience in development of Banking applications with prowess in learning technology, knack to work in team to achieve concrete goals on a strict deadline. 
+- Highly versatile Oracle application developer with 10 years of
+experience in development of Banking applications with prowess in
+learning technology, knack to work in team to achieve concrete
+goals on a strict deadline. Forte includes Oracle PLSQL, Shell
+scripting/automation and Python.
+ 
 - Strong skills include Oracle database, Banking application development , Python and shell scripting. 
 - Extensive experience working on Banking applications of Flexcube/B@NCS.
 - Hands on experience on Scripting/automation in Unix/Linux env.
