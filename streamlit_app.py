@@ -242,30 +242,82 @@ effectively in Agile in bi-weekly sprint releases.
 txt('[Oracle Financial Services Software](https://www.oracle.com/) , **Application Developer**', 'Chennai, India')
 txt('08/2016 - 10/2018', ' ')
 st.markdown('''
-- Customization of the application to the needs of the clients, which includes understanding the business requirement, feasibility study, implementation of the same by coding the same which includes creation of database objects like tables, triggers, views and packages, procedures, functions with the highest degree of coding standards. 
-- Catering needs of Flexcube universal banking applications to a range of clients in development and maintenance of clients in the Middle East and Asia Pacific.
-- Reduction of EoD/EoM runtime over 20-30% by performance tuning on analyzing AWR/ADDM reports for faster application design and development.
-- Involved in migrating Toplink to POJO, which improved the performance of the application considerably.
-- Implemented system of tracking the bugs spotted in various clients and proactivily fixing the bugs in all the clients running the same version of Flexcube, which decreased number of issues raised clients and inturn improved customer satisfaction.
+# - Customization of the application to the needs of the clients, which includes understanding the business requirement, feasibility study, implementation of the same by coding the same which includes creation of database objects like tables, triggers, views and packages, procedures, functions with the highest degree of coding standards. 
+# - Catering needs of Flexcube universal banking applications to a range of clients in development and maintenance of clients in the Middle East and Asia Pacific.
+# - Reduction of EoD/EoM runtime over 20-30% by performance tuning on analyzing AWR/ADDM reports for faster application design and development.
+# - Involved in migrating Toplink to POJO, which improved the performance of the application considerably.
+# - Implemented system of tracking the bugs spotted in various clients and proactivily fixing the bugs in all the clients running the same version of Flexcube, which decreased number of issues raised clients and inturn improved customer satisfaction.
+
+- Customization of the application to the needs of the clients, which
+includes understanding the business requirement, feasibility study and
+implementation, which includes creation of database objects like tables, triggers, views, packages, procedures, functions, etc. with the highest
+degree of coding standards.
+- Catering needs of Flexcube universal banking applications to a range of
+clients in development and maintenance of clients in the Middle East and
+Asia Pacific.
+- Reduction of EoD/EoM runtime over 20-30% by performance tuning on
+analysing AWR reports for faster application design and development.
+- Implemented system of tracking the bugs spotted in various clients and
+proactively fixing the bugs in all the clients running the same version of
+Flexcube, which decreased number of issues raised clients and in turn
+improved customer satisfaction.
+
 ''')
 
 txt('[HCL Technologies Ltd.](https://www.hcltech.com/) , **Software Engineer**', 'Chennai, India')
 txt('12/2014 - 08/2016', ' ')
 st.markdown('''
-- Application development with all stages of System Development Life Cycle (SDLC). Applied Database Tuning and Optimization, Normalization under tight schedules of development and implementation. 
-- Development includes Tier upgrade/downgrade/association process where Customers are assigned to tiers according to sales made as per business rules.
-- Automation of Scripts in Shell and Perl which replaced work of L1/L1.5 team in reports and Monitoring process. Further improved productivity with reduced cost to the company.
-- Tuning the existing PL/SQL codes to run faster and perform better in a scaleble environment. Improved the performance of the critical daily sales process and reduced the run time by 30%.
-- Created 6 value-adds worth $105,000 which brought new business to the Company and have satisfied the customer as it improved productivity. Obtained high acclaims for the same.
+# - Application development with all stages of System Development Life Cycle (SDLC). Applied Database Tuning and Optimization, Normalization under tight schedules of development and implementation. 
+# - Development includes Tier upgrade/downgrade/association process where Customers are assigned to tiers according to sales made as per business rules.
+# - Automation of Scripts in Shell and Perl which replaced work of L1/L1.5 team in reports and Monitoring process. Further improved productivity with reduced cost to the company.
+# - Tuning the existing PL/SQL codes to run faster and perform better in a scaleble environment. Improved the performance of the critical daily sales process and reduced the run time by 30%.
+# - Created 6 value-adds worth $105,000 which brought new business to the Company and have satisfied the customer as it improved productivity. Obtained high acclaims for the same.
+
+- Application development with all stages of System
+Development Life Cycle (SDLC). Applied Database Tuning and
+Optimization, Normalization under tight schedules of
+development and implementation.
+- Development includes Tier upgrade/downgrade/association
+process where Customers are assigned to tiers according to sales
+made as per business rules.
+- Automation of Scripts in Shell and Perl which replaced work of
+L1/L1.5 team in reports and Monitoring process. Further
+improved productivity with reduced cost to the company.
+- Tuning the existing PL/SQL codes to run faster and perform
+better in a scalable environment. Improved the performance of
+the critical daily sales process and reduced the run time by 30%.
+- Created 6 value-adds worth $105,000 which brought new
+business to the Company and have satisfied the customer as it
+improved productivity. Obtained high acclaims for the same.
+
 ''')
 
 txt('[C-Edge Tech.](https://cedge.in/) ( A TCS - SBI Enterprise ) , **Developer**', 'Chennai, India')
 txt('10/2012 - 12/2014', ' ')
 st.markdown('''
-- Managing a Center of `10` professors, OOOOO least `20+` research publications annually. 
-- B@NCS - Core banking implementation for over `25` Banks which contained over 850+ Banks in them. Worked in Client location which involved direct interaction with clients to obtain the requirement.
-- Extensive experience in development of modules in PL\SQL, COBOL. Development of automation scripts using UNIX Shell and Perl to improve productivity and enhance the existing scripts.
-- Headed a Team of 2-4 members as Team lead of Reports, GL and Deposit Modules. Develop tool to automatically send reports and files which failed to deliver over ftp. This process reduced work of L1.5 and improved the productivity and improved client’s satisfaction with the available narrow band and obtain highest success rate of delivery in turn reduce the cost considerably.
+# - Managing a Center of `10` professors, OOOOO least `20+` research publications annually. 
+# - B@NCS - Core banking implementation for over `25` Banks which contained over 850+ Banks in them. Worked in Client location which involved direct interaction with clients to obtain the requirement.
+# - Extensive experience in development of modules in PL\SQL, COBOL. Development of automation scripts using UNIX Shell and Perl to improve productivity and enhance the existing scripts.
+# - Headed a Team of 2-4 members as Team lead of Reports, GL and Deposit Modules. Develop tool to automatically send reports and files which failed to deliver over ftp. This process reduced work of L1.5 and improved the productivity and improved client’s satisfaction with the available narrow band and obtain highest success rate of delivery in turn reduce the cost considerably.
+
+- B@NCS - Core banking implementation for over 25 Banks which
+contained over 850+ Banks in them. Worked in Client location
+which involved direct interaction with clients to obtain the
+requirement. 
+- Extensive experience in development of modules in PL\SQL, COBOL. Development of automation scripts using Shell and Perl
+to improve productivity and enhance the existing scripts. 
+= Headed a Team of 2-4 members as Team lead of Reports, GL and
+Deposit Modules. Develop tool to automatically send reports
+and files which failed to deliver over ftp. This process reduced
+work of L1.5 and improved the productivity and improved
+client’s satisfaction with the available narrow band and obtain
+highest success rate of delivery in turn reduce the cost
+considerably. 
+= Developed PL\SQL codes to validate the data during migration, validate the interest/accrual given during migration according to
+the interest rates present in the system. 
+= Trained/Mentored a quality team and we enforced all quality
+process and obtained low defect outcome of 0.01 DTCR.
+
 ''')
 #####################
 st.markdown('''
