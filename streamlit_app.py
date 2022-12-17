@@ -321,7 +321,7 @@ process and obtained low defect outcome of 0.01 DTCR.
 # - Headed a Team of 2-4 members as Team lead of Reports, GL and Deposit Modules. Develop tool to automatically send reports and files which failed to deliver over ftp. This process reduced work of L1.5 and improved the productivity and improved client’s satisfaction with the available narrow band and obtain highest success rate of delivery in turn reduce the cost considerably.
 
 
-s
+
 #####################
 st.markdown('''
 ## Skills
