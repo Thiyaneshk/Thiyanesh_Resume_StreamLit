@@ -295,11 +295,6 @@ improved productivity. Obtained high acclaims for the same.
 txt('[C-Edge Tech.](https://cedge.in/) ( A TCS - SBI Enterprise ) , **Developer**', 'Chennai, India')
 txt('10/2012 - 12/2014', ' ')
 st.markdown('''
-# - Managing a Center of `10` professors, OOOOO least `20+` research publications annually. 
-# - B@NCS - Core banking implementation for over `25` Banks which contained over 850+ Banks in them. Worked in Client location which involved direct interaction with clients to obtain the requirement.
-# - Extensive experience in development of modules in PL\SQL, COBOL. Development of automation scripts using UNIX Shell and Perl to improve productivity and enhance the existing scripts.
-# - Headed a Team of 2-4 members as Team lead of Reports, GL and Deposit Modules. Develop tool to automatically send reports and files which failed to deliver over ftp. This process reduced work of L1.5 and improved the productivity and improved client’s satisfaction with the available narrow band and obtain highest success rate of delivery in turn reduce the cost considerably.
-
 - B@NCS - Core banking implementation for over 25 Banks which
 contained over 850+ Banks in them. Worked in Client location
 which involved direct interaction with clients to obtain the
@@ -319,6 +314,14 @@ the interest rates present in the system.
 process and obtained low defect outcome of 0.01 DTCR.
 
 ''')
+
+# - Managing a Center of `10` professors, OOOOO least `20+` research publications annually.
+# - B@NCS - Core banking implementation for over `25` Banks which contained over 850+ Banks in them. Worked in Client location which involved direct interaction with clients to obtain the requirement.
+# - Extensive experience in development of modules in PL\SQL, COBOL. Development of automation scripts using UNIX Shell and Perl to improve productivity and enhance the existing scripts.
+# - Headed a Team of 2-4 members as Team lead of Reports, GL and Deposit Modules. Develop tool to automatically send reports and files which failed to deliver over ftp. This process reduced work of L1.5 and improved the productivity and improved client’s satisfaction with the available narrow band and obtain highest success rate of delivery in turn reduce the cost considerably.
+
+
+s
 #####################
 st.markdown('''
 ## Skills
