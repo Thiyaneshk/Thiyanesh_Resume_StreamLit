@@ -312,7 +312,6 @@ considerably.
 the interest rates present in the system. 
 - Trained/Mentored a quality team and we enforced all quality
 process and obtained low defect outcome of 0.01 DTCR.
-
 ''')
 
 # - Managing a Center of `10` professors, OOOOO least `20+` research publications annually.
